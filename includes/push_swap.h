@@ -84,6 +84,3 @@ int			is_sign(char c);
 int			nbstr_cmp(const char *s1, const char *s2);
 
 #endif
-/*
-https://github.com/mcombeau/push_swap/blob/main/src/push.c 
-*/
